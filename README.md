@@ -6,3 +6,4 @@ We will release a template of the website if it is really liked and popular
 
 #We have many updates planned
 There is many updates planned but we are just beginning!
+# Website Link: https://firetiger369.github.io/CosmicRoyale.github.io/index.html
